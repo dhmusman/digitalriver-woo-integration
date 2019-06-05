@@ -3,13 +3,13 @@
 > Plugin that integrates Digital River credit card processing into the Woocommerce environment.
 
 ## Install
-
 ```
-`Nothing to Install yet but once there is it will be a standard Wordpress plugin install process`
+Nothing to Install yet but once there is it will be a standard Wordpress plugin install process
+```
 
 ## Usage
-
-`More to come`
+```
+More to come
 ```
 
 ## Contributing
